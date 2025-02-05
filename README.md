@@ -1,2 +1,2 @@
-# Logistic-regression
-“Predicting Personal Loan Approvals  with Logistic Regression” || The objective is to predict personal loan approval for customers using logistic regression.   This analysis aims to identify key factors influencing loan approval and improve decision-making efficiency for the bank.
+# Predicting Personal Loan Approvals with Logistic Regression
+“Predicting Personal Loan Approvals  with Logistic Regression Using IBM SPSS and Power BI” || This project aims to predict personal loan approvals using a logistic regression model built in SPSS. The analysis identifies key factors influencing approval decisions and enhances the model's accuracy from 90% to 95.6%. A Power BI dashboard was created to compare the trendlines before and after prediction improvements, providing actionable insights for banks to optimize their decision-making processes.
